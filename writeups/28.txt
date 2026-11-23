@@ -1,0 +1,3 @@
+- the gaps between the numbers goes: 2 2 2 2 4 4 4 4 8 8 8 8 ...
+- the maximum step of an nxn grid is n-1
+=> make a loop that increases the active number and adds it to the sum
