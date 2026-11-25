@@ -1,1 +1,1 @@
-solutions to project euler problems
+> _A collection of my personal solutions to project euler problems_
