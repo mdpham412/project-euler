@@ -1,0 +1,2 @@
+- work from bottom up (figure out the best path to take for each number)
+- by the time you reach the top youll have figured out the best path for max sum
